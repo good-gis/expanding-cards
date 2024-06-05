@@ -49,4 +49,8 @@ expandable-cards/
 └── README.md        # Project description
 ```
 
+## 🎉 Demo
+
+Check out the live demo: [Expandable Cards Demo](https://good-gis.github.io/expanding-cards/)
+
 Made with ❤️ by good-gis
