@@ -1,53 +1,52 @@
 # 📋 Expandable Cards Component
 
-👋 Привет! Этот проект демонстрирует, как создать компонент расширяющихся карточек с использованием JavaScript, HTML и CSS. Просто кликайте на карточки, чтобы они расширялись и показывали дополнительную информацию.
+👋 Hi! This project demonstrates how to create an expandable cards component using JavaScript, HTML, and CSS. Simply click on the cards to expand them and reveal additional information.
 
-## 🚀 Начало работы
+## 🚀 Getting Started
 
-Следуйте этим инструкциям, чтобы запустить проект локально.
+Follow these instructions to run the project locally.
 
-### 📦 Установка
+### 📦 Installation
 
-1. **Клонируйте репозиторий:**
+1. **Clone the repository:**
 
     ```bash
     git clone https://github.com/yourusername/expandable-cards.git
     ```
 
-2. **Перейдите в директорию проекта:**
+2. **Navigate to the project directory:**
 
     ```bash
     cd expandable-cards
     ```
 
-### ▶️ Запуск
+### ▶️ Launch
 
-Откройте файл `index.html` в вашем любимом браузере.
+Open the `index.html` file in your favorite browser.
 
 ```bash
 open index.html
 ```
 
-## 🛠 Технологии
+## 🛠 Technologies
 
-- **HTML**: Структура страницы
-- **CSS**: Стилизация компонентов
-- **JavaScript**: Взаимодействие и логика расширения карточек
+- **HTML**: Structure of the page
+- **CSS**: Styling of the components
+- **JavaScript**: Interaction and logic for expanding cards
 
-## 📁 Структура проекта
+## 📁 Project Structure
 
 ```plaintext
 expandable-cards/
 │
 ├── css/
-│   └── styles.css   # Стили для карточек
+│   └── styles.css   # Styles for the cards
 │
 ├── js/
-│   └── scripts.js   # Логика взаимодействия
+│   └── scripts.js   # Interaction logic
 │
-├── index.html       # Главная страница
-└── README.md        # Описание проекта
+├── index.html       # Main page
+└── README.md        # Project description
 ```
 
-Сделано с ❤️ by good-gis
-
+Made with ❤️ by good-gis
